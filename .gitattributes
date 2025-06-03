@@ -1,0 +1,5 @@
+*.ipynb linguist-documentation
+node_modules/* linguist-vendored
+frontend/* linguist-language=JavaScript
+backend/* linguist-language=Python
+inference_server/* linguist-language=Python
