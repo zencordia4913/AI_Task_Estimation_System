@@ -7,6 +7,7 @@ This project implements a deep learning pipeline for **task duration prediction*
 ## Architecture Overview
 
 ![Model Pipeline](./PLAN6.png)
+![Model Pipeline](./UI.png)
 
 The system follows a 3-stage pipeline:
 
