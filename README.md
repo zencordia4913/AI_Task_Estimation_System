@@ -1,6 +1,6 @@
 # AI Task Estimation System
 
-This project implements a deep learning pipeline for **task duration prediction** based on task name embeddings. It combines **transformer-based encoding**, **dimensionality reduction**, and **regression modeling** to estimate the time required to complete various tasks — useful in project planning, software engineering estimation, and operations forecasting.
+This project implements a deep learning pipeline for **task duration prediction** based on task name embeddings. It combines **transformer-based encoding**, **dimensionality reduction**, and **regression modeling** to estimate the time required to complete various tasks
 
 ---
 
